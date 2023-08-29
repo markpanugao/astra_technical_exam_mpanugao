@@ -1,0 +1,12 @@
+MPANUGAO CAR AUCTION EXAM
+
+ARCHITECTURE DIAGRAM AND SEQUENCE DIAGRAM
+- To consider the performance, reliability and scalability of Car Auction, I put a requirement for internet speed.
+This is to have smooth and scalable system while using the auction website.
+- To consider the security aspect, there will be a user role checking everytime,
+a user logged in on the system.
+- There is a alloted table for user roles in case there will be added user roles in the future.
+
+DATABASE DIAGRAM
+- All the tables has audit trail for security purposes.
+and for auditing purposes in the future.
